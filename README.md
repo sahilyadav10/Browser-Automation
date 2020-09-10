@@ -10,7 +10,7 @@ Following are some of the requirements for the program to work properly
 ```
 pip install selenium
 ```
-* Chromedriver. Get it from [here](https://chromedriver.chromium.org/downloads)
+* Chromedriver. Get it from [here](https://chromedriver.chromium.org/downloads) and put the .exe file in the same folder as the program files.
 ```
 To check chrome version, 
  go to Help -> About Google Chrome
