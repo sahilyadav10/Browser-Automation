@@ -27,3 +27,6 @@ Open command prompt and navigate to the directory containing the program files, 
 python main.py
 ```
 
+
+## Screenshot
+   ![Screenshot](./Screenshot.jpg)
