@@ -22,7 +22,7 @@ pip install schedule
 
 
 ## Running the program
-In command prompt, enter the following command
+Open command prompt and navigate to the directory containing the program files, enter the following command
 ```
 python main.py
 ```
