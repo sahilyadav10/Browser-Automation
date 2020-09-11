@@ -30,3 +30,6 @@ python main.py
 
 ## Screenshot
    ![Screenshot](./Screenshot.jpg)
+   
+## Video
+   [![Watch the video](./preview.gif)](./preview.mp4)
